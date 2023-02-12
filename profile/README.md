@@ -42,7 +42,7 @@
 Аналитик команды. Уделяет большое внимание работе с разнообразными данными и делает из них статистически подкрепленные выводы. Строит план решения задачи и направляет команду к лучшему возможному результату.
 
 [![Roman Isaev](https://github.com/PunkButterfly/.github/blob/main/assets/Roman%20Isaev.png)](https://github.com/RomanIsaev163)
-Еще один квалифированный аналитик.
+Еще один квалифицированный аналитик.
 
 [![German Mityai](https://github.com/PunkButterfly/.github/blob/main/assets/German%20Mityai.png)](https://github.com/DeLornk)
 Универсальный солдат из миров backend и machine learning engineering. Ищет SOTA решения, генерирует идеи для новых и уже реализованных фич, занимается визуализацией и оформлением.
