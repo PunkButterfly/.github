@@ -7,7 +7,7 @@
 
 ### Хакатоны
 
-* [Leaders of Digital SaintP 2023](https://hacks-ai.ru/hackathons.html?eventId=969079&caseEl=993031&tab=3) - корректировка пользовательского ввода гео-адресов по заданной базе данных - 4 место :medal_sports:
+* [Leaders of Digital SaintP 2023](https://github.com/PunkButterfly/Hackathon-DigitalBreakthroughSaintP) - корректировка пользовательского ввода гео-адресов по заданной базе данных - 4 место :medal_sports:
 * [Marking Hack 2023](https://github.com/PunkButterfly/Hackathon-MarkingHack) - система предиктивной аналитики рынка и поиска финансовых и логистических аномалий - 3 место :3rd_place_medal:
 * [Xmas Hack 2022](https://github.com/PunkButterfly/Hackathon-XmasHack) - определение вида договора с интерпретацией результата. Второй трофей для нашей команды - 1 место :trophy:
 * [Skolkovo Hack 2022](https://github.com/PunkButterfly/Hackathon-Skolkovo) - ранжирование кандидатов по соответствию вакансиям. Жили вместе двое суток и победили - 1 место :trophy:
